@@ -1,4 +1,6 @@
-# Data Portfolio: Excel to Power BI 
+# Best Marketing Campaign Strategy For KFCP Online Store  
+
+ 
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
@@ -8,6 +10,7 @@
 
 # Table of contents 
 
+- [Introduction](#introduction)
 - [Objective](#objective)
 - [Data Source](#data-source)
 - [Stages](#stages)
@@ -35,32 +38,30 @@
 - [Conclusion](#conclusion)
 
 
-
+# Introduction
+**The head of Marketing, Mrs. Sharon, at KFCP Online Store, wants to run a successful marketing campaign with top YouTubers from the UK. She just had the marketing budget approved by management and wants to be certain about how to channel the budget.**
+**At the moment, her challenge is looking online for top YouTubers. Unfortunately, she's bumping into inconsistent and conflicting information on the internet. she also tried contacting different third-party providers, but she feels that they are overpriced for delivering too little. Sharon is having a hard time achieving this goal. All she wants is a simple dashboard showing the top YouTubers by subscribers, videos uploaded, and the views for her to make a more informed decision on the best YouTuber to collaborate with, get a good return on investment, and also form long-term collaborations with them for future campaigns as partners.** 
 
 # Objective 
 
-- What is the key pain point? 
+**The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year and future campaigns.**
 
-The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
+* As the Head of Marketing, she want to use a dashboard that analyses YouTube channel data in the UK . 
+
+* This dashboard should allow me to identify the top performing channels based on metrics like subscriber base and average views. 
+
+* With this information, She should be able to make more informed decisions about which Youtubers are right to collaborate with, and therefore maximize how effective each marketing campaign is.
 
 
-- What is the ideal solution? 
+### - What is the ideal solution? 
 
-To create a dashboard that provides insights into the top UK YouTubers in 2024 that includes their 
+**To create a dashboard that provides insights into the top UK YouTubers in 2024 that includes their:**
 - subscriber count
 - total views
 - total videos, and
 - engagement metrics
 
 This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
-
-## User story 
-
-As the Head of Marketing, I want to use a dashboard that analyses YouTube channel data in the UK . 
-
-This dashboard should allow me to identify the top performing channels based on metrics like subscriber base and average views. 
-
-With this information, I can make more informed decisions about which Youtubers are right to collaborate with, and therefore maximize how effective each marketing campaign is.
 
 
 # Data source 
@@ -130,7 +131,6 @@ Some of the data visuals that may be appropriate in answering our questions incl
 | Excel | Exploring the data |
 | SQL Server | Cleaning, testing, and analyzing the data |
 | Power BI | Visualizing the data via interactive dashboards |
-| GitHub | Hosting the project documentation and version control |
 | Mokkup AI | Designing the wireframe/mockup of the dashboard | 
 
 
@@ -138,7 +138,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 ## Pseudocode
 
-- What's the general approach in creating this solution from start to finish?
+**- What's the general approach in creating this solution from start to finish?**
 
 1. Get the data
 2. Explore the data in Excel
@@ -149,6 +149,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 7. Generate the findings based on the insights
 8. Write the documentation + commentary
 9. Publish the data to GitHub Pages
+
 
 ## Data exploration notes
 
